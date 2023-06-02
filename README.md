@@ -47,6 +47,9 @@ I participated in projects in the banking, real estate, insurance, cultural prod
 <a href="https://github.com/luiscatherinck">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscatherinck&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
 </a>
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luiscatherinck&theme=dark&background=000000)](https://github.com/luiscatherinck)
 
 
 <!--
