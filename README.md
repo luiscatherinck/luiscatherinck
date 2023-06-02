@@ -44,17 +44,13 @@ I participated in projects in the banking, real estate, insurance, cultural prod
 
 <h4 align="left">Github stats:</h4>
 <div style="display: inline_block">
-<a href="https://github.com/luiscatherinck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscatherinck&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-</a>
-  
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luiscatherinck&theme=dark&background=000000)](https://github.com/luiscatherinck)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luiscatherinck&theme=dark&background=000000)](https://github.com/luiscatherinck)
 
 
 <!--
-<a href="https://github.com/luiscatherinckt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luiscatherinck&theme=prussian&include_all_commits=true&count_private=true&repo=luiscatherinck/react-studies" />
+<a href="https://github.com/luiscatherinck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscatherinck&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
 </a> -->
 </div>
 
