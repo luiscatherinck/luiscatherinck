@@ -1,22 +1,25 @@
 <h2>Hi, I'm Luis Catherinck</h2>
-<h5>I'm frontend developer from Brazil since 2011 and I develop high quality web applications with the help of frameworks such as ReactJS, VueJS, Angular, Wordpress, Webflow and Magento. I am used to the concept of squads and I work very well in teams, I have experience with agile methodologies like Scrum and Kanban and in recent years I have gained a lot of experience working with this model.
+<h5>I'm a frontend developer based in Brazil, with over a decade of experience since 2011. I specialize in crafting high-quality web applications using frameworks such as ReactJS, VueJS, Angular, and platforms like WordPress, Webflow, and Magento.
 <br/><br/>
-I participated in projects in the banking, real estate, insurance, cultural production and many other segments, I have experience with global clients and I work in both national and international projects.</h5>
-
+Familiar with the concept of squads, I excel in collaborative team environments. My expertise extends to working with agile methodologies like Scrum and Kanban, and I've accumulated significant experience applying these methodologies in recent years.
+<br/><br/>
+My project involvement spans diverse sectors, including banking, real estate, insurance, cultural production, and more. I've collaborated with global and national projects and I'm working on an international project.
 <br/>
 
-🔭 I’m currently working on React project(private project)
+🔭 Currently, I'm engaged in a React project (private).
 
-🌱 I’m currently learning **Node**
-
+🌱 My ongoing learning focus is on **Frontend technologies** and **Node**.
 <!--
 👨‍💻 All of my projects are available at [luiscatherinck.dev](luiscatherinck.dev)
 
 📝 I regularly write articles on [luiscatherinck.dev/blog](luiscatherinck.dev/blog)
 -->
-💬 Ask me about **React, Vue, Angular, CSS, HTML, JS/TS**
 
-📫 How to reach me **luiscatherinck@gmail.com** 
+💬 Feel free to reach out for discussions on **React, Vue, Angular, CSS, HTML, JS/TS**.
+
+📫 You can contact me at **luiscatherinck@gmail.com**.
+
+  
 
 
 <h4 align="left">Connect with me:</h4>
