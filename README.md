@@ -21,6 +21,8 @@ My project involvement spans diverse sectors, including banking, real estate, in
 
 📫 You can contact me at **luiscatherinck@gmail.com**.
 
+<br/>
+ 
   
 
 
