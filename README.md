@@ -5,6 +5,7 @@ Familiar with the concept of squads, I excel in collaborative team environments.
 <br/><br/>
 My project involvement spans diverse sectors, including banking, real estate, insurance, cultural production, and more. I've collaborated with global and national projects and I'm working on an international project.
 <br/>
+<br/>
 
 🔭 Currently, I'm engaged in a React project (private).
 
