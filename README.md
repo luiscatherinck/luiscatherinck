@@ -7,7 +7,6 @@ My project involvement spans diverse sectors, including banking, real estate, in
 <br/>
 <br/>
 <br/>
-<br/>
 
 🔭 Currently, I'm engaged in a React project (private).
 
