@@ -1,9 +1,11 @@
 <h2>Hi, I'm Luis Catherinck</h2>
-<h5>I'm a frontend developer based in Brazil, with over a decade of experience since 2011. I specialize in crafting high-quality web applications using frameworks such as ReactJS, VueJS, Angular, and platforms like WordPress, Webflow, and Magento.
+I'm a frontend developer based in Brazil, with over a decade of experience since 2011. I specialize in crafting high-quality web applications using frameworks such as ReactJS, VueJS, Angular, and platforms like WordPress, Webflow, and Magento.
 <br/><br/>
 Familiar with the concept of squads, I excel in collaborative team environments. My expertise extends to working with agile methodologies like Scrum and Kanban, and I've accumulated significant experience applying these methodologies in recent years.
 <br/><br/>
 My project involvement spans diverse sectors, including banking, real estate, insurance, cultural production, and more. I've collaborated with global and national projects and I'm working on an international project.
+<br/>
+<br/>
 <br/>
 <br/>
 
