@@ -8,7 +8,7 @@ My project involvement spans diverse sectors, including banking, real estate, in
 <br/>
 <br/>
 
-🔭 Currently, I'm engaged in a React project (private).
+🔭 Currently, I'm engaged in a React project (private project).
 
 🌱 My ongoing learning focus is on **Frontend technologies** and **Node**.
 <!--
